@@ -1,3 +1,5 @@
 /__pycache__
 /Lib
 /Scripts
+/share
+Lib/site-packages/
