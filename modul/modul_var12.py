@@ -1,7 +1,4 @@
-import os
-import json
-from helpers import is_point_in_triangle, translate_text
-
+    
 DATA_FILE = 'MyData.json'
 
 def read_data():
